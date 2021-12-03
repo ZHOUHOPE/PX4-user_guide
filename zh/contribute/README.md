@@ -13,7 +13,7 @@ This section contains information about contributing to PX4, including the sourc
 * [Dev Call](../contribute/dev_call.md) - Discuss architecture, pull requests, impacting issues with the dev team
 * [Codeline Management](../contribute/code.md) - Work with PX4 code
 * [Documentation](../contribute/docs.md) - Improve the docs
-* [Translation](../contribute/translation.md) - Translate using Crowdin
+* [翻译](../contribute/translation.md) - 使用Crowdin翻译
 * [术语/符号](../contribute/notation.md)
 * [许可证](../contribute/licenses.md)
 
